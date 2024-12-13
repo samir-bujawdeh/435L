@@ -1,0 +1,13 @@
+# Python-related
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+ecommerce_env/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
